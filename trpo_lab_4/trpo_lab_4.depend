@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1732543183 source:c:\users\dikaz\onedrive\desktop\trpo_lab_4\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<limits>
+

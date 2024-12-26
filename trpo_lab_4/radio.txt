@@ -1,0 +1,6 @@
+1 Radio1 Sony Communication 88.0 120 5.2
+2 Radio2 Samsung Entertainment 102.5 150 6.8
+3 Radio3 Philips Education 94.3 110 5.1
+4 Radio4 Panasonic News 105.0 130 5.5
+5 Radio5 LG Research 90.7 140 5.3
+CREATE
